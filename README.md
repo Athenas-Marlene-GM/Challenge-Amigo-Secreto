@@ -4,6 +4,8 @@
 Este proyecto es un desafío de **lógica de programación** en JavaScript.  
 Permite agregar amigos a una lista y realizar un sorteo aleatorio para seleccionar a un amigo secreto.
 
+![Vista de la aplicación](assets/VistaCompleta.png)
+
 ---
 
 ## Funcionalidades
@@ -27,15 +29,13 @@ Permite agregar amigos a una lista y realizar un sorteo aleatorio para seleccion
 ## Capturas de pantalla
 
 **Agregar amigos:**  
-![Agregar amigos]()
+![Agregar amigos](assets/AgregarAmigo.png)
 
 **Lista de amigos actualizada:**  
-![Lista de amigos]()
+![Lista de amigos](assets/Lista.png)
 
 **Resultado del sorteo:**  
-![Resultado sorteo]()
-
-> Nota: Las imágenes son opcionales; puedes reemplazarlas por capturas reales de tu proyecto.
+![Resultado sorteo](assets/Resultado.png)
 
 ---
 
